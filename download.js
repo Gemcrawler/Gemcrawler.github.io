@@ -1,0 +1,1 @@
+alert("Gemcrawler is not finished the download link will not work untill the game is completed (i have no idea when that will happen)")
